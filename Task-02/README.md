@@ -1,3 +1,3 @@
-Completed 4 subparts of task 2 
-learnt about code chef
-did not complete task 2
+Completed 4 subtasks of task 2
+
+Did not complete task 2

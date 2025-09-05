@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/amfoss-tasks/Task-13/my-portfolio/about/</loc>
+    <lastmod>2024-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/amfoss-tasks/Task-13/my-portfolio/contact/</loc>
+    <lastmod>2024-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/amfoss-tasks/Task-13/my-portfolio/projects/</loc>
+    <lastmod>2024-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/amfoss-tasks/Task-13/my-portfolio/projects/project1/</loc>
+    <lastmod>2024-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/amfoss-tasks/Task-13/my-portfolio/</loc>
+    <lastmod>2024-09-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/amfoss-tasks/Task-13/my-portfolio/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/amfoss-tasks/Task-13/my-portfolio/tags/</loc>
+  </url>
+</urlset>

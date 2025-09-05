@@ -61,3 +61,56 @@ for i in range(T):
     print(abs(f-g))   #clclats abs diff btw 2flrs and abs used like modulus func
 
 
+_Remove card_
+
+from collections import Counter
+
+t= int(input()) #test cases
+for i in range(t): 
+    n=int(input())  #no of cards
+    c=list(map(int,input().split()))  #cards
+    b=Counter(c)   #count repeating cards
+    m=max(b.values())   #takes most repeated
+    z=n-m   #throws least repeated & z= no of cards thrown
+    print(z)  
+
+
+- Task is to remove the least repeated card
+ 
+_escape false alarm_
+
+t = int(input())   # test cases
+
+for i in range(t):
+    n, x = map(int, input().split())         # n = number of doors, x = step length
+    d = list(map(int, input().split()))  
+    
+    p = False  
+
+
+    for s in range(n):
+        b = s + x  # b = end position
+        t = 0
+        c = True
+
+        
+        for i in range(n):
+            if d[i] == 0:   # door is free
+                t += 1
+            else:  # door is blocked
+                if s <= t < b:
+                    t += 1
+                else:
+                    c = False
+                    break
+
+        if c:  
+            p = True
+            break
+
+    if p:
+        print("YES")
+    else:
+        print("NO")
+
+-

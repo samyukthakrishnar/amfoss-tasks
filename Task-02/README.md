@@ -1,3 +1,3 @@
-Completed 4 subtasks of task 2
+Completed 5 subtasks of task 2
 
 Did not complete task 2

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Samyuktha Krishna R  - Portfolio</title>
-    <link>http://localhost:1313/amfoss-tasks/Task-13/my-portfolio/</link>
+    <link>https://samyukthakrishnar.github.io/amfoss-tasks/Task-13/my-portfolio/</link>
     <description>Recent content on Samyuktha Krishna R  - Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 05 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/amfoss-tasks/Task-13/my-portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://samyukthakrishnar.github.io/amfoss-tasks/Task-13/my-portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>http://localhost:1313/amfoss-tasks/Task-13/my-portfolio/about/</link>
+      <link>https://samyukthakrishnar.github.io/amfoss-tasks/Task-13/my-portfolio/about/</link>
       <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/amfoss-tasks/Task-13/my-portfolio/about/</guid>
+      <guid>https://samyukthakrishnar.github.io/amfoss-tasks/Task-13/my-portfolio/about/</guid>
       <description>Hello, I&amp;rsquo;m Samyuktha Krishna R 👋 Welcome to my digital space! I&amp;rsquo;m a first year Electrical and Computer engineering student, with an insatiable curiosity for innovation and problem-solving.&#xA;What Drives Me 🚀 As an ELC student, I&amp;rsquo;m genuinely curious about AI/ML and Web Development - fields that perfectly blend creativity with logic. There&amp;rsquo;s something magical about writing code that can think, learn and solve real world problems.I&amp;rsquo;m just beginning my adventure in the world of technology.</description>
     </item>
     <item>
       <title>Get In Touch</title>
-      <link>http://localhost:1313/amfoss-tasks/Task-13/my-portfolio/contact/</link>
+      <link>https://samyukthakrishnar.github.io/amfoss-tasks/Task-13/my-portfolio/contact/</link>
       <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/amfoss-tasks/Task-13/my-portfolio/contact/</guid>
+      <guid>https://samyukthakrishnar.github.io/amfoss-tasks/Task-13/my-portfolio/contact/</guid>
       <description>Let&amp;rsquo;s Connect! 🤝 I&amp;rsquo;m always excited to discuss technology, collaborate on projects, or simply chat about innovation and creativity.&#xA;Find Me Online 🌐 GitHub: https://github.com/samyukthakrishnar LinkedIn: https://www.linkedin.com/in/samyuktha-krishna-r-170451380/ Email: samyukthakrishnar@gmail.com Portfolio: This website! Instagram: https://www.instagram.com/sam.yuk.tha_?igsh=NHB1cDBhcHp0bG0x What I&amp;rsquo;d Love to Discuss 💬 AI/ML Projects Web Development Electric Vehicles, technology and sustainability Creative Coding Open Source Currently Open To 🚀 Internship opportunities in tech Collaborative projects with fellow developers Mentorship in areas where I can help Learning opportunities in new technologies Let&amp;rsquo;s Build Something Amazing Together!</description>
     </item>
     <item>
       <title>My Projects</title>
-      <link>http://localhost:1313/amfoss-tasks/Task-13/my-portfolio/projects/project1/</link>
+      <link>https://samyukthakrishnar.github.io/amfoss-tasks/Task-13/my-portfolio/projects/project1/</link>
       <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/amfoss-tasks/Task-13/my-portfolio/projects/project1/</guid>
+      <guid>https://samyukthakrishnar.github.io/amfoss-tasks/Task-13/my-portfolio/projects/project1/</guid>
       <description>Projects Portfolio 🛠️ Welcome to my project showcase! Here&amp;rsquo;s where ideas transform into reality through code, creativity, and countless hours of problem-solving.&#xA;Current Focus 🎯 AMFOSS Praveshan Tasks Currently working on AMFOSS Praveshan challenges as an S1 ELC student - a comprehensive set of tasks designed to test and enhance programming skills across multiple domains for its recruitment. Each task pushes me to explore new technologies and approaches, helping me bridge my electrical engineering background with software development.</description>
     </item>
   </channel>

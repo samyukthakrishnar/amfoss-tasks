@@ -1,5 +1,4 @@
-
-baseURL = 'https://yourusername.github.io/amfoss-tasks/Task-13/my-portfolio/'
+baseURL = 'https://samyukthakrishnar.github.io/amfoss-tasks/Task-13/my-portfolio/'
 languageCode = 'en-us'
 title ='Samyuktha Krishna R  - Portfolio'
 theme = 'hyde'
@@ -26,4 +25,3 @@ theme = 'hyde'
     name = "Contact"
     url = "/contact/"
     weight = 3
-

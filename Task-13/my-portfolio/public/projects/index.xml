@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My Projects on Samyuktha Krishna R  - Portfolio</title>
-    <link>http://localhost:1313/amfoss-tasks/Task-13/my-portfolio/projects/</link>
+    <link>https://samyukthakrishnar.github.io/amfoss-tasks/Task-13/my-portfolio/projects/</link>
     <description>Recent content in My Projects on Samyuktha Krishna R  - Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 05 Sep 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/amfoss-tasks/Task-13/my-portfolio/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://samyukthakrishnar.github.io/amfoss-tasks/Task-13/my-portfolio/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Projects</title>
-      <link>http://localhost:1313/amfoss-tasks/Task-13/my-portfolio/projects/project1/</link>
+      <link>https://samyukthakrishnar.github.io/amfoss-tasks/Task-13/my-portfolio/projects/project1/</link>
       <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/amfoss-tasks/Task-13/my-portfolio/projects/project1/</guid>
+      <guid>https://samyukthakrishnar.github.io/amfoss-tasks/Task-13/my-portfolio/projects/project1/</guid>
       <description>Projects Portfolio 🛠️ Welcome to my project showcase! Here&amp;rsquo;s where ideas transform into reality through code, creativity, and countless hours of problem-solving.&#xA;Current Focus 🎯 AMFOSS Praveshan Tasks Currently working on AMFOSS Praveshan challenges as an S1 ELC student - a comprehensive set of tasks designed to test and enhance programming skills across multiple domains for its recruitment. Each task pushes me to explore new technologies and approaches, helping me bridge my electrical engineering background with software development.</description>
     </item>
   </channel>

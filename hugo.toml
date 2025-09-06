@@ -1,0 +1,29 @@
+
+baseURL = 'https://yourusername.github.io/amfoss-tasks/Task-13/my-portfolio/'
+languageCode = 'en-us'
+title ='Samyuktha Krishna R  - Portfolio'
+theme = 'hyde'
+
+[params]
+    description = "This portfolio will take your attention across my field of interests and the projects that I have done as part of amFOSS praveshan   "
+    themeColor = "black"  # You can change colors
+    
+[author]
+    name = "Samyuktha Krishna R"
+
+# Menu configuration
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 1
+
+[[menu.main]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 2
+
+[[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 3
+

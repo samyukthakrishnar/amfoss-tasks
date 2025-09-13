@@ -12,4 +12,4 @@ main :: IO ()
 main = do
     contents <- readFile "input.txt"
     let n = read (head (lines contents)) :: Int
-    haskell  n
+    haskel  n

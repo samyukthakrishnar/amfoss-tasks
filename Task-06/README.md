@@ -15,7 +15,7 @@ Managing a personal playlist (add, remove, view, clear).
 A help command that lists all available commands.
 
 
-##What I did
+## What I did
 
 1. Set up environment
 

@@ -9,9 +9,6 @@ On the left side, there are search buttons, column selectors, and actions like S
 
 On the right side, the results show in a table, and below that, a small console gives feedback (like “Results Found” or “No Results Found”).
 
-
-I also added an Export CSV feature so the search results can be saved as a file.
-
 From this task, I learned how to:
 
 Build a GUI with PySide6.
@@ -27,35 +24,7 @@ In short, this project is like a mini IMDB tool where users can search and explo
 
 ##A brief overview
 
-|Start (User opens app)|
-        │
-        ▼
-|Dashboard UI Loads (PySide6)|
-        │
-        ├──► |Load Movies from MySQL Database|
-        │
-        ▼
-|User selects Search Mode & Columns|
-        │
-        ▼
-|Build SQL Query (based on user input)|
-        │
-        ▼
-|Execute Query (MySQL)|
-        │
-        ▼
-|Display Results in Table|
-        │
-        ▼
-|Export Results as CSV (optional)|
-
-
-Perfect ✅ I’ll give you a simple explanation of the code so you can understand and explain it in your interview. I’ll break it into small parts:
-
-
----
-
-## Code Explanation of dashboard.py
+    ## Code Explanation of dashboard.py
 
 1. Imports & Setup
 

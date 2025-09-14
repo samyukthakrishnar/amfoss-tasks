@@ -29,7 +29,7 @@ My interests are Ai,software development, web development, problem solving etc a
 
 | Task     | Description                          | Status |
 |----------|--------------------------------------|--------|
-| [Task-11](./Task-11/)|OverTheWire Bandit | Attempted but did not complete |
+| [Task-11](./Task-11/)|OverTheWire Bandit | Not attempted |
 | [Task-12](./Task-12/)|Hello, World! | Completed Successfully |
 | [Task-13](./Task-13/)|Lessgo Hugo | Completed Successfully |
 | [Task-14](./Task-14/)|Sand Simulation| Not attempted |

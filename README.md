@@ -10,7 +10,7 @@ what are your fields of interest, and how do you plan on working on them?
 
 My interests are Ai,software development, web development, problem solving etc and I plan working on small ai projects,taking online courses, contributing to club projects and exploring different programming languages.
 
-## Task status
+# Task status
 | Task List | Description | Status |
 | :-:       | :-:         | :-:    |
 | [Task-00](./Task-00/)|Install Linux | Completed successfully |
@@ -25,7 +25,7 @@ My interests are Ai,software development, web development, problem solving etc a
 | [Task-09](./Task-09/)|SysForge challenge | Not attempted |
 | [Task-10](./Task-10/)|BattleCraft: Daily CSS Challenges | Completed Successfully|
 
-# Additional Tasks Status
+## Additional Tasks Status
 
 | Task     | Description                          | Status |
 |----------|--------------------------------------|--------|

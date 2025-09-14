@@ -1,5 +1,5 @@
 
-#CineScope – Task Write-Up 
+# CineScope – Task Write-Up 
 
 In this task, I created a movie dashboard using Python (PySide6) and a MySQL database. The dashboard lets users search movies by genre, year, rating, director, or actor. It also has options to choose which columns (like Title, Year, Genre, Rating, Director, Stars) to display in the results.
 
@@ -22,9 +22,9 @@ Add useful features like search filters and exporting data.
 
 In short, this project is like a mini IMDB tool where users can search and explore movies easily.
 
-##A brief overview
+## A brief overview
 
-    ## Code Explanation of dashboard.py
+## Code Explanation of dashboard.py
 
 1. Imports & Setup
 
